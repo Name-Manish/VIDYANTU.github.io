@@ -41,3 +41,26 @@ body {
     text-align: center;
     position: relative;
 }
+/* main content styling with css */
+.box{
+    height: 22em;
+    width: 11em;
+    background-color: red;
+
+}
+.content{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+/* footer styling */
+.footer0{
+    height: 6em;
+    width: auto;
+    background-color: black;
+}
+.footer{
+    text-align: center;
+    
+}
