@@ -1,0 +1,43 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    margin: 0px;
+    color: white;
+    font-size: 2vh;
+    overflow: hidden;
+}
+
+body {
+    background-color: black;
+}
+
+.fullName1 {
+    background-color: rgb(127, 122, 124);
+    height: 100vh;
+    width: 90%;
+}
+
+#fullName {
+    display: flex;
+    justify-content: center;
+}
+
+#navigastion1 {
+    display: flex;
+    justify-content: space-around;
+    background-color: blue;
+    height: 5vh;
+}
+
+.list {
+    list-style: none;
+}
+
+.tab {
+    text-decoration: none;
+}
+
+.logo {
+    text-align: center;
+    position: relative;
+}
